@@ -14,3 +14,8 @@ nav ul li {
   list-style: none;
   margin: 10px;
 }
+
+.container {
+  display: flex;
+  align-items: top center;
+}
